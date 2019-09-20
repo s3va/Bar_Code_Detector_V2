@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bar Code Detector V2</string>
+    <string name="flash_indicatot_and_button">Flash Indicatot and button</string>
+    <string name="fold_unfuld_textview">fold/unfuld textView</string>
+</resources>
